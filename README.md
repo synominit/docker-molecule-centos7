@@ -1,7 +1,7 @@
 # CentOS 7 Molecule Test Image
-[![Docker Repository on Quay](https://quay.io/repository/synominit/docker-molecule-centos7/status "Docker Repository on Quay")](https://quay.io/repository/synominit/docker-molecule-centos7)
+[![Docker Repository on Quay](https://quay.io/repository/synominit/docker-molecule-centos7/status "Docker Repository on Quay")](https://quay.io/repository/synominit/docker-molecule-centos7)[![Build Status](https://travis-ci.org/synominit/docker-molecule-centos7.svg?branch=master)](https://travis-ci.org/synominit/docker-molecule-centos7)
 
-[![Build Status](https://travis-ci.org/synominit/docker-molecule-centos7.svg?branch=master)](https://travis-ci.org/synominit/docker-molecule-centos7)
+
 
 CentOS 7 Docker container for Ansible playbook and role testing.
 
