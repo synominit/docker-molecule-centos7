@@ -1,4 +1,4 @@
-FROM centos:7
+FROM centos:centos8
 LABEL maintainer="Skye Pham"
 ENV container=docker
 
